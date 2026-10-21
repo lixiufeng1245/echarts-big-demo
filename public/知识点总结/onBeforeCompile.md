@@ -1,0 +1,1 @@
+onBeforeCompile，好像clone的时候，不会被克隆，我说上次怎么搞不定
